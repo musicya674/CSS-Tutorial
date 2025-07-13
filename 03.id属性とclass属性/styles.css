@@ -1,3 +1,32 @@
 /* 6つのp要素に適用するスタイルを宣言 */
-
+p {
+    background-color: blue;
+}
+.txtWhite {
+    color: #fff;
+}
+.txtYellow {
+    color: yellow;
+}
+.txtRed {
+    color: red;
+}
 /* 6つのli要素に適用するスタイルを宣言 */
+li {
+    font-size: 16px;
+}
+.txt12 {
+    font-size: 12px;
+}
+.txtBlue {
+    color: blue;
+}
+.bgGrey {
+    background: grey;
+}
+.bgGreen {
+    background: green;
+}
+.bgBrown {
+    background: brown;
+}
